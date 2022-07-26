@@ -43,7 +43,7 @@
 
 #### Screenshots
 
-|        BEFORE        |       AFTER       |
-| :------------------: | :---------------: |
-| Before these changes | After the changes |
-|                      |                   |
+|       BEFORE       |       AFTER       |
+| :----------------: | :---------------: |
+| Before the changes | After the changes |
+|                    |                   |
