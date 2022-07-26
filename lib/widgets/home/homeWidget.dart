@@ -6,8 +6,9 @@ class HomeWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
+      decoration: BoxDecoration(color: Colors.white),
       child: Center(
-        child: Text("Home widget"),
+        child: Text("Home screen"),
       ),
     );
   }
